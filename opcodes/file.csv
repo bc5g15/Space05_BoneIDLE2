@@ -1,0 +1,10 @@
+clear,instructions.Clear,,,Just the variable name as a parameter.
+incr,instructions.Increment,,,"Again, just the variable name"
+decr,instructions.Decrement,,,Just decrements a given variable
+end,instructions.End,,,"Finishes a loop, subroutine or if statement"
+while,instructions.While,,,Starts a while loop with a condition
+if,instructions.If,,,Defines the start of an if branch. Needs a conditional
+else,instructions.Else,,,Defines the False branch of an If statement
+def,instructions.Define,,,Defines a subroutine with a name
+sub,instructions.EnterSubroutine,,,Enter a given subroutine
+set,instructions.Set,,,Sets a variable using the EquationEvaluator
