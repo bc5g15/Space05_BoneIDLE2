@@ -1,0 +1,18 @@
+SC05 - New Instructions:
+
+[if]<conditional> - Creates a conditional branch. Either end the branch with [end] or define an else with [else]
+
+[else] - defines an else branch. Doesn't work without a preceding if.
+
+[def]<name> - defines a subroutine. Close it off with [end].
+
+[sub]<name> - enter a subroutine. The name of the subroutine is a paramter.
+
+[set]<variable><equation> - sets a variable value, to the value resolved from an equation.
+
+New Conditionals:
+
+[equality] - (x) equals (y)
+[inequality] - (x) is not (y)
+[greater than] - (x) greater than (y)
+[less than] - (x) less than (y)
