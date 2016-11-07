@@ -1,0 +1,10 @@
+clear x;
+clear y;
+
+if x is not y;
+incr x;
+else;
+incr y;
+end;
+
+clear z;

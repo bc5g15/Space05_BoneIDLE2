@@ -1,0 +1,11 @@
+def what;
+incr x;
+incr x;
+incr x;
+end;
+
+clear x;
+sub what;
+sub what;
+
+clear y;

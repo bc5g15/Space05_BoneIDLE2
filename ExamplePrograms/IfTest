@@ -1,0 +1,8 @@
+clear x;
+if x is not 0;
+ incr x;
+else;
+ decr x;
+end;
+
+clear y;

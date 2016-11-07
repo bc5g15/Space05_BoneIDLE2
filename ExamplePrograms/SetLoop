@@ -1,0 +1,11 @@
+clear x;
+clear y;
+incr x;
+incr y;
+
+while x less than 100000;
+set x x*2;
+incr y;
+end;
+
+clear z;
